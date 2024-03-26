@@ -1,0 +1,22 @@
+{
+  "name": "straitsx-tht",
+  "version": "1.0.0",
+  "description": "StraitsX Take Home Test",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dann Wee",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/hardhat-upgrades": "^3.0.5",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "chai": "^4.4.1",
+    "dotenv": "^16.4.5"
+  }
+}
